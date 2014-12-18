@@ -20,5 +20,9 @@
    "repository": {
     "type": "git",
     "url": "https://github.com/pauljohncleary/google-trend-scraper.git"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "google-trend-scraper" : "index.js"
   }
 }

@@ -16,5 +16,9 @@
   "dependencies": {
     "cheerio": "~0.18.0",
     "request": "~2.51.0"
+  },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/pauljohncleary/google-trend-scraper.git"
   }
 }
